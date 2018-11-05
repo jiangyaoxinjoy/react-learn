@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a39a981-fed3-47ec-98c0-1ca6dea61979" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/my-app/src/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/my-app/src/components/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/my-app/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/dom.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/mock/todolist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/mock/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/TodoListUi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store2/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store2/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store2/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/src/store2/sagas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/TodoList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/store/actionCreators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/store/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/components/header/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6/src/style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test6/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="209">
+                <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="react-component" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test2/mock/todolist.json" />
+        <option value="$PROJECT_DIR$/test2/src/TodoList.js" />
+        <option value="$PROJECT_DIR$/test2/README.md" />
+        <option value="$PROJECT_DIR$/test2/src/style.css" />
+        <option value="$PROJECT_DIR$/test2/src/components/Transition.js" />
+        <option value="$PROJECT_DIR$/test2/dom.html" />
+        <option value="$PROJECT_DIR$/test3/src/Todolist.js" />
+        <option value="$PROJECT_DIR$/test3/src/index.js" />
+        <option value="$PROJECT_DIR$/test3/src/store/index.js" />
+        <option value="$PROJECT_DIR$/test3/src/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/test3/src/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/test3/src/TodoList.js" />
+        <option value="$PROJECT_DIR$/test3/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test3/README.md" />
+        <option value="$PROJECT_DIR$/test4/src/TodoListUi.js" />
+        <option value="$PROJECT_DIR$/test4/mock/list.json" />
+        <option value="$PROJECT_DIR$/test4/src/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/test4/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test4/src/store/index.js" />
+        <option value="$PROJECT_DIR$/test4/src/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/test4/src/store2/index.js" />
+        <option value="$PROJECT_DIR$/test4/src/store2/actionTypes.js" />
+        <option value="$PROJECT_DIR$/test4/src/store2/actionCreators.js" />
+        <option value="$PROJECT_DIR$/test4/src/TodoList.js" />
+        <option value="$PROJECT_DIR$/test4/src/store2/sagas.js" />
+        <option value="$PROJECT_DIR$/test4/README.md" />
+        <option value="$PROJECT_DIR$/test5/store/index.js" />
+        <option value="$PROJECT_DIR$/test5/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test5/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test5/src/TodoList.js" />
+        <option value="$PROJECT_DIR$/test5/src/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/test5/README.md" />
+        <option value="$PROJECT_DIR$/test6/src/index.css" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/style.css" />
+        <option value="$PROJECT_DIR$/test6/src/style.js" />
+        <option value="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.css" />
+        <option value="$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.js" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/style.js" />
+        <option value="$PROJECT_DIR$/test5/src/index.js" />
+        <option value="$PROJECT_DIR$/test6/src/index.js" />
+        <option value="$PROJECT_DIR$/test6/src/App.js" />
+        <option value="$PROJECT_DIR$/test6/src/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/test6/src/store/actionCreators.js" />
+        <option value="$PROJECT_DIR$/test6/src/store/index.js" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test6/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/store/actionTypes.js" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/store/index.js" />
+        <option value="$PROJECT_DIR$/test6/src/components/header/index.js" />
+        <option value="$PROJECT_DIR$/test6/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="330" />
+    <option name="y" value="28" />
+    <option name="width" value="1597" />
+    <option name="height" value="1021" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="header" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-learn" type="462c0819:PsiDirectoryNode" />
+              <item name="test6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.prettier" value="true" />
+    <property name="node.js.path.for.package.prettier" value="project" />
+    <property name="node.js.selected.package.prettier" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test6\src\components\header\store" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test5\src" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test2\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test6\src\statics\iconfont" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test5\src\store" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test4\src" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn" />
+      <recent name="D:\webpackrpoj\agitwork\react-learn\test2\mock" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.dom.html">
+    <configuration name="dom.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/react-learn/test2/dom.html" />
+    <configuration name="arr.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="arr.js" working-dir="$PROJECT_DIR$/test1" />
+    <list>
+      <item itemvalue="Node.js.arr.js" />
+      <item itemvalue="JavaScript Debug.dom.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.dom.html" />
+        <item itemvalue="Node.js.arr.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a39a981-fed3-47ec-98c0-1ca6dea61979" name="Default" comment="" />
+      <created>1540878366654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540878366654</updated>
+      <workItem from="1540878367891" duration="13476000" />
+      <workItem from="1540949687551" duration="26307000" />
+      <workItem from="1541036158520" duration="24830000" />
+      <workItem from="1541122805934" duration="8986000" />
+      <workItem from="1541382467404" duration="6945000" />
+      <workItem from="1541389700631" duration="18920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="99464000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="330" y="28" width="1597" height="1021" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1543327" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281768" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16016151" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281768" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32922733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test2/src/style.css" />
+    <entry file="file://$PROJECT_DIR$/test2/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2430">
+            <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2/dom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/my-app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/mock/list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/TodoListUi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="41" column="4" lean-forward="true" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store2/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="539">
+            <caret line="141" column="3" lean-forward="true" selection-start-line="141" selection-start-column="3" selection-end-line="141" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store2/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store2/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" lean-forward="true" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="56" column="31" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="56" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store2/sagas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="22" lean-forward="true" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store2/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="21" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/store/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="810">
+            <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="69" column="23" lean-forward="true" selection-end-line="69" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="463">
+            <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/statics/iconfont/iconfont.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="46" lean-forward="true" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="93" column="5" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/src/TodoList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="69" column="17" lean-forward="true" selection-start-line="69" selection-start-column="17" selection-end-line="69" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test5/src/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="129" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="129" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="2" lean-forward="true" selection-start-line="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/store/actionCreators.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/store/actionTypes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/src/components/header/store/reducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test6/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="20" column="72" selection-start-line="20" selection-start-column="72" selection-end-line="20" selection-end-column="72" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
