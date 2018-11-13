@@ -22,6 +22,11 @@ redux中间件
 - redux-thunk
 - redux-saga
 
+# test5
+- React-redux API
+
+# test6
+- 简书实例
 
 # test7
 router路由
