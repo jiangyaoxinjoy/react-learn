@@ -1,5 +1,11 @@
 ## antd-desgin 
 - reactUl,比较适合后台
+### antd按需引入
+ **引入组件**
+ 
+    import {Layout, Menu, Icon} from 'antd';
+ **按需引入css**
+    查看官网
 ## Redux
 
 ### 基本原则

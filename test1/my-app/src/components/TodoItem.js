@@ -1,4 +1,4 @@
-import React, {Component,Fragment} from 'react';
+import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 class TodoItem extends Component {
     constructor(props) {
@@ -9,9 +9,9 @@ class TodoItem extends Component {
     render() {
         const {item,test} = this.props;
         return (
-            <Fragment>
+            <div className="wrap">
                 <li onClick={ () => this.handleClick() } >{test} - {item}</li>
-            </Fragment>
+            </div>
         )
     }
 
@@ -24,7 +24,7 @@ class TodoItem extends Component {
 
 TodoItem.propTypes = {
     test: PropTypes.string.isRequired,
-    item: PropTypes.arrayOf(PropTypes.string,PropTypes.number),
+    item: PropTypes.string,
     delectItem: PropTypes.func,
     index: PropTypes.number
 }

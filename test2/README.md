@@ -1,3 +1,7 @@
+## 模块化开发
+- React组件模块化
+
+  解决html 标签构建应用的不足
 ## state render
 - 当父组件的render函数被运行时，他的子组件的render也会被再次执行。
 - 当一个组件的state或者props发生改变时，他的render函数会重新执行。
@@ -48,7 +52,7 @@ this.setState({}, () => { //回调函数})
  1. 初始化
     - 在constructor()中初始化state和props
  2. 挂载
-      1. componentWillMount 组件即将挂载到页面的时候执行
+      1. componentWillMount 组件即将挂载到页面的时候执行(废弃)
       2. render 渲染
       3. componentDidMount 组件挂载完成执行
  3. 组件更新  (state,props发生改变)
@@ -60,11 +64,11 @@ this.setState({}, () => { //回调函数})
       3. render
       4. componentDidUpdate  组件更新完成后执行 
       #### props 独有的
-      - componentWillReceiveProps  
+      - componentWillReceiveProps(废弃)  
         - 组件初始化render时不执行
         - 当props发生变化时执行
  4. unmounting 组件去除
-    - componentWillUnmount     
+    - componentWillUnmount 组件销毁前调用。    
  ##  React生命周期使用场景   
 `` 组件中唯独render这个函数不能去掉，因为其他生命周期函数都在React.Component类中内置了，唯独render没有预先定义。``
 1. 组件性能优化`shouldComponentUpdate`
@@ -85,8 +89,12 @@ this.setState({}, () => { //回调函数})
     - `componentDidMount` 只执行一次。
     - 为什么不放在`componentWillMount`上，因为可能和后续的React Native有冲突。
     
- ## axios   
- - 用Charles对本地数据进行模拟。
+ ## React获取服务器API接口的数据
+ 
+ 可以用Charles对本地数据进行模拟
+ 1. axios 
+        对jsonp不友好,推荐用CROS方法更为干净。
+ 2. fetch-jsonp 
  ## 动画
  - css动画 `transition: all 1s ease-in;`
  - `keyframes`动画 `animation: show-item 1s ease-in forwards;`

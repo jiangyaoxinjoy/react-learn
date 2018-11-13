@@ -1,10 +1,32 @@
+
+## 安装环境 
+- nodejs稳定版本
+- cnpm 代替npm
+- yarn 可以替代npm，因为npm安装模块有时候会报错。
+```
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm i -g yarn
+```
+## create-react-app
+### 安装脚手架
+```
+cnpm i create-react-app -g
+```
+### 创建项目
+在项目目录里
+```
+create-react-app myApp
+npm start 
+```
 ### create-react-app目录结构
 - serviceWorker.js 用于浏览器缓存页面
 - App.test.js 自动化测试
 - .gitignore 用于git忽略文件
 - manifest.json 定义网页在桌面快捷方式的图标和网址
 
-### JSX 基础语法
+## JSX 基础语法
+
+JSX就是html和js宏写的一种模式
 - 在js里写html标签，引用组件
     - js里写html要加 '' ,转换成字符串。
     - 在jsx直接写标签就可以。
@@ -22,12 +44,43 @@
     
     `<label htmlFor="input">输入内容</label>`    
     
+##  事件对象
+ 在触发`DOM`的某个事件时，会产生一个`event`对象，这个对象包含所有与事件相关的信息。    
+## ref
+  1. 在ref直接挂载一个dom元素
+  
+            //元素绑定ref
+            <input ref='input' />
+            //获取值
+            this.refs.input.value
     
+  2. 也可以将input这个dom元素直接挂载到组件上
+        
+            <input ref={(input) => this.input = input}/>
+            this.input.value
+    
+## 表单元素
+ ### 1.约束性和非约束性组件
+  **非约束性组件**
+  
+  defaultValue相当于原生DOM的value
+     
+     <input defaultValue="a"/>  
+      
+  **约束性组件** 
+    
+  value一定要和onChange搭配使用。
+  
+  value的值是有onChange方法管理的。value值不是用户输入内容，而是调用onChange方法后重新赋值给value。  
+     
+     <input value={this.state.inputValue} onChange={}/>   
+     
+ ## 实现类似于vue的双向绑定数据
 ### 编写一个TodoList功能    
 #### 响应式设计思想和数据绑定
-  - 在构造函数中this.state={}中定义数据。
-    - value = {this.state.inputValue}用{}绑定数据。
-  - 事件绑定  onChange={handle} change首字母要大写。
+  - 在构造函数中`this.state={}`中定义数据。
+    - `value = {this.state.inputValue}`用{}绑定数据。
+  - 事件绑定  `onChange={handle}` `change`首字母要大写。
     - handle方法定义在类里面.
     
 ### 事件的this指向

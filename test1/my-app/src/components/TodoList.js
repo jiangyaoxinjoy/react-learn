@@ -1,6 +1,6 @@
-import React, {Component, Fragment} from 'react';
-import './style.css'
-import TodoItem from './components/TodoItem';
+import React, {Component} from 'react';
+import '../assets/css/style.css'
+import TodoItem from './TodoItem';
 //Fragment占位符。
 class TodoList extends Component {
     //类的构造函数，当我们执行一个类时，构造函数是最先执行的函数
@@ -21,8 +21,9 @@ class TodoList extends Component {
 
     render() {
         return (
-            <Fragment>
+            <div className="wrap">
                 <div>
+                    <h2>TodoList双向数据绑定</h2>
                     <label htmlFor="input">输入内容</label>
                     <input
                         className="input"
@@ -36,12 +37,11 @@ class TodoList extends Component {
                 <ul>
                     {this.getTodoItem()}
                 </ul>
-            </Fragment>
+            </div>
         )
     }
 
     getTodoItem() {
-        console.log('e')
         return this.state.list.map((item, index) => {
             return (
                 <TodoItem

@@ -12,3 +12,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.wrap{
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+}
+input,textarea{
+  display: block;
+  margin: 10px 0;
+}
+input[type='radio'],input[type='checkbox'] {
+  display: inline-block;
+  margin-left: 10px;
+}

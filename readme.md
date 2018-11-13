@@ -1,61 +1,32 @@
-#react
-
-###课程
-- 基础内容
-- 环境搭建
-- 基础语法
-- 原理进阶
-- 动画
-- redux 数据框架
-- redux进阶
-- 实战 (简书)
-  - 环境搭建
-  - Header组件
-  - 首页
-  - 详情页
-  - 登录页校验
-- 上线流程
-
-###核心知识点
+# test1
 - create-react-app
-- 组件化思维
-- JSX
-- 开发调试工具
+- 实例对象
+- ref获取真实dom
+- form表单元素
+- 实现类似vue的双向数据绑定
+- JSX基础语法
+- 事件this指向
+
+# test2
+- localStorage 本地缓存
+- React生命周期
+- 服务器数据请求
 - 虚拟dom
-- 生命周期
-- React-transition- group
-- Redux
-- Antd
-- UI,容器组件
-- 无状态组件
+
+# test3
+- redux
+- 框架antd(适合后台开发)
+
+# test4
+redux中间件
 - redux-thunk
 - redux-saga
-- Styled-components
-- Immutable.js(数据框架)
-- redux-immutable
-- axios ...
 
-###  `test1`
-- create-react-app
-- 最基础的JSX语法
-###  `test2`
-- 虚拟dom。
-- 生命周期.
-- React-transition- group
-- axios
-###  `test3`
-- Redux = Reducer + Flux
 
-###  `test4`
-- Redux 进阶
-- UI组件和容器组件拆分
-  - UI组件渲染
-  - 容器组件处理逻辑
-  
-### `test5`
-- React-redux  
-
-### `test6`
-简书项目实战。
-- Styled-components
-- redux拆分
+# test7
+router路由
+ - react-router-dom 最新版本
+ - 登录跳转
+ - 路由嵌套
+ - 路由传参
+ - 路由组件化

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import TodoList from './TodoList';
+import './assets/css/index.css';
+import App from './App';
 
 //PWA progresslive web application
 //https协议的服务器上
@@ -9,7 +9,7 @@ import TodoList from './TodoList';
 // import * as serviceWorker from './serviceWorker';
 
 //<App />是JSX语法，如果在项目使用了JSX语法就要引用React
-ReactDOM.render(<TodoList name="todolist"/>, document.getElementById('root'));
+ReactDOM.render(<App/>, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
